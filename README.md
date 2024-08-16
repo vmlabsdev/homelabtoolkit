@@ -12,6 +12,8 @@ To import this module, run:
 ```powershell
 Import-Module .\VMLabsHLToolkit\VMLabsHLToolkit.psd1 -Verbose -Force
 ```
+
+## Functions
 |Description|Name|Parameters|
 |:--|:--|:--|
 |Gets IdRac 7 Memory information, returning the used slots information using Redfish API.|Get-IdRac7MemoryInformation|IdracUrl,Credentials|

@@ -12,3 +12,5 @@ To import this module, run:
 ```powershell
 Import-Module .\VMLabsHLToolkit\VMLabsHLToolkit.psd1 -Verbose -Force
 ```
+
+## Functions
